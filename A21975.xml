@@ -92,6 +92,8 @@
       <profileDesc>
          <langUsage>
             <language ident="eng">eng</language>
+            <language ident="la">Latin</language>
+            <language ident="grc">Ancient Greek</language>
          </langUsage>
          <textClass>
             <keywords scheme="http://authorities.loc.gov/">
